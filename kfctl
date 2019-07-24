@@ -1,0 +1,2 @@
+FROM debian:9.6-slim
+RUN wget https://github.com/kubeflow/kubeflow/releases/download/v0.5.1/kfctl_v0.5.1_linux.tar.gz
